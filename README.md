@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliAsgharGill
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C++ & C#
+- 🌱 I’m currently learning C++, Java & C#
 - 💞️ I’m looking to collaborate on projects  
 - 📫 How to reach me stylinalivlogs@gmail.com
 
