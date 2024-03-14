@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h2 align="left">Hello! Meet My Self Ali Asghar Gill Software Engineer</h2>
-
+<h2 align="centre">Hello! Meet My Self Ali Asghar Gill Software Engineer</h2>
+<h2 align="centre">Passionate Programmer Dynamic Journey</h2>
 ###
 
 <div align="center">
