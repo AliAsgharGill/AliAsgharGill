@@ -1,5 +1,5 @@
 ### 
-<h2 align="centre">Meet My Self Ali Asghar Gill Passionate Programmer Dynamic Journey</h2>
+<h2 align="centre">Passionate Programmer Dynamic Journey</h2>
 ###
 
 <div align="center">
