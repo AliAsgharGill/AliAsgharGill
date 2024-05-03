@@ -20,7 +20,7 @@
   <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />  
   <img width="12" />
-        <img src="https://reactrouter.com/_brand/react-router-stacked-color.png" height="30" alt="react logo"  />  
+        <img src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" height="30" alt="react router logo"  />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo">
   <img width="12" />
