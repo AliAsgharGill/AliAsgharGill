@@ -1,30 +1,3 @@
-<head>    
-    <style>        
-        .tooltip {
-            position: relative;
-            display: inline-block;
-            cursor: pointer;
-        }
-        .tooltip .tooltiptext {
-            visibility: hidden;
-            width: 120px;
-            background-color: #555;
-            color: #fff;
-            text-align: center;
-            border-radius: 6px;
-            padding: 5px;
-            position: absolute;
-            z-index: 1;
-            bottom: 125%;
-            left: 50%;
-            margin-left: -60px;
-            /* Center the tooltip */
-        }
-        .tooltip:hover .tooltiptext {
-            visibility: visible;
-        }
-    </style>
-</head>
 <h2 align="centre">Passionate Programmer Dynamic Journey</h2>
 
 
@@ -45,10 +18,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" height="30" alt="typescript logo"  />
 
   <img width="12" />
-      <div class="tooltip">
-      <span class="tooltiptext">React</span>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />  
-      </div>
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo">
   <img width="12" />
