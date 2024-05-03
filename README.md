@@ -27,13 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SCSS Logo">
- 
+ <img src="https://img.shields.io/github/stars/aliasghargill?style=social" alt="GitHub stars" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/github/stars/aliasghargill?style=social" alt="GitHub stars" />
+  
 </div>
 <!--
 <div align="left">
