@@ -28,6 +28,8 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo">
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjouFTAB2PcXfnfkjy1SUjkaMeaymXnzoOA&s" height="30" alt="Tailwind CSS Logo">
+  <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="30" alt="bootstrap logo"  />    
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-xbdsnx83.png" height="30" alt="antd logo"  />
