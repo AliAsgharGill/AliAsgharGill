@@ -22,6 +22,8 @@
   <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />  
   <img width="12" />
+        <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="30" alt="NextJs logo"  />  
+  <img width="12" />
         <img src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" height="30" alt="react router logo"  />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo">
